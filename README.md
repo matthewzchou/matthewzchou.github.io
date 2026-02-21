@@ -31,4 +31,4 @@ A minimal, professional, purple-themed personal website starter.
 
 ## Notes
 - Keep descriptions short.
-- Add 2–4 strong projects, not 12 weak ones.
+- Add 2–4 strong projects, not 12 weak ones .
