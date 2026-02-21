@@ -1,7 +1,7 @@
 # Personal Website Template (GitHub Pages)
-
-A minimal, professional, purple-themed personal website starter.
-
+  
+A minimal, professional, -themed personal website starter.  
+  
 ## Files
 - `index.html` – homepage
 - `projects.html` – projects page
